@@ -1,0 +1,11 @@
+- 👋 Hi, My name is Hubert Lewicki
+- 👨‍🎓 I am a second year college student
+- 👨‍💻 I’m interested in Computer science
+- 📚 I’m currently learning and developing my skill in programming languages mostly and preferably Python or PLSQL
+- 🕺 Love any type or meetings or going outs
+- 📫 You can reach me through mail "hlewicki02@gmail.com" or LinkedIn https://www.linkedin.com/in/hubert-lewicki-0abb73283/ 
+- 😄 Pronouns: He 
+- 🎼 Fun fact: I am Music lover, and in my free time i create my own music in program called Fl Studio
+- 💼 Currently looking for any type of Interships (preferred IT department)
+- 🥅 My goal: Combine proggramig with Data science and progressively develop my skill in it 📊
+

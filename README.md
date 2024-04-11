@@ -1,5 +1,5 @@
 - 👋 Hi, My name is Hubert Lewicki
-- 👨‍🎓 I am a second year college student
+- 👨‍🎓 I am a second year college student ay PJATK University
 - 👨‍💻 I’m interested in Computer science
 - 📚 I’m currently learning and developing my skill in programming languages mostly and preferably Python or PLSQL
 - 🕺 Love any type or meetings or going outs

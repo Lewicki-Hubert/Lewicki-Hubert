@@ -13,9 +13,9 @@
 
 <h3 align="left" style="color: black;"><strong>Connect with me:</strong></h3>
 <p align="left">
-  <a href="https://linkedin.com/in/hubert lewicki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hubert lewicki" height="30" width="40" /></a>
-  <a href="https://fb.com/hubert lewicki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hubert lewicki" height="30" width="40" /></a>
-  <a href="https://instagram.com/teddy_berti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="teddy_berti" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/hubert-lewicki-0abb73283/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hubert lewicki" height="30" width="40" /></a>
+  <a href="https://www.facebook.com/hubert.lewicki.33" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hubert lewicki" height="30" width="40" /></a>
+  <a href="https://www.instagram.com/teddy_berti/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="teddy_berti" height="30" width="40" /></a>
 </p>
 
 <h3 align="left" style="color: black;"><strong>Languages and Tools:</strong></h3>

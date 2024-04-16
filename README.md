@@ -6,7 +6,7 @@
 <p align="left" style="color: black;"><strong>🥅 My goal: Combine programming with Data science and progressively develop my skill in it 📊</strong></p>
 <p align="left" style="color: black;"><strong>🎼 Fun fact: I am a Music lover, and in my free time, I create my own music in a program called FL Studio</strong></p>
 <p align="left" style="color: black;"><strong>🕺 Love any type of meetings or going outs</strong></p>
-<p align="left" style="color: black;"><strong>💼 Currently looking for any type of Intership (preferably IT department)</strong></strong></p>
+<p align="left" style="color: black;"><strong>💼 Open for any type of Intership (preferably IT department)</strong></strong></p>
 <p align="left" style="color: black;"><strong>📫 You can reach me through mail "hlewicki02@gmail.com" or LinkedIn https://www.linkedin.com/in/hubert-lewicki-0abb73283/</strong></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lewicki-hubert&label=Profile%20views&color=0e75b6&style=flat" alt="lewicki-hubert" /> </p>

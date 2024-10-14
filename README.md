@@ -2,7 +2,6 @@
 <p align="left" style="color: black;"><strong>👨‍🎓I am a third year college student at PJATK University</strong></p>
 <p align="left" style="color: black;"><strong>👨‍💻 I’m interested in Computer science</strong></p>
 <p align="left" style="color: black;"><strong>📚 Continuously developing my skill in programming languages mostly Python</strong></p>
-<p align="left" style="color: black;"><strong>😄 Pronouns: He</strong></p>
 <p align="left" style="color: black;"><strong>🥅 My goal: Combine programming with Data science and progressively develop my skill in it 📊</strong></p>
 <p align="left" style="color: black;"><strong>🎼 Fun fact: I am a Music lover, and in my free time, I create my own music in a program called FL Studio</strong></p>
 <p align="left" style="color: black;"><strong>🕺 Love any type of meetings or going outs</strong></p>
